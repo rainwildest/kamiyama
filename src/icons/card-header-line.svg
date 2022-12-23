@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 155 7.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#未命名的渐变_2);
+      }
+
+      .cls-2 {
+        fill: #4c6cc5;
+      }
+
+      .cls-3 {
+        fill: #4b6cc5;
+      }
+    </style>
+    <linearGradient id="未命名的渐变_2" x1="84.95" y1="649.69" x2="0" y2="649.02"
+      gradientTransform="matrix(1, 0, 0, -1, 0, 652.85)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3965db" />
+      <stop offset="1" stop-color="#4b6cc5" stop-opacity="0.5" />
+    </linearGradient>
+  </defs>
+  <g id="图层_2" data-name="图层 2">
+    <g id="图层_1-2" data-name="图层 1">
+      <path class="cls-1" d="M0,0H89L82.06,7H0Z" />
+      <polygon class="cls-2" points="94.66 0 99.65 0 92.63 7.07 87.64 7.07 94.66 0" />
+      <polygon class="cls-2" points="105.04 0 110.03 0 103 7.07 98.02 7.07 105.04 0" />
+      <polygon class="cls-2" points="116.57 0 121.56 0 114.54 7.07 109.55 7.07 116.57 0" />
+      <polygon class="cls-3" points="128.11 0 133.09 0 126.07 7.07 121.08 7.07 128.11 0" />
+      <polygon class="cls-2" points="139.64 0 144.62 0 137.6 7.07 132.62 7.07 139.64 0" />
+      <polygon class="cls-2" points="150.02 0 155 0 147.98 7.07 143 7.07 150.02 0" />
+    </g>
+  </g>
+</svg>

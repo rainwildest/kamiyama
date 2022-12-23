@@ -1,0 +1,15 @@
+.select-trigger {
+  height: 100%;
+
+  .el-input {
+    height: 100%;
+  }
+}
+
+.el-pager li {
+  border: 1px solid var(--el-border-color);
+
+  &.is-active {
+    background-color: var(--el-border-color);
+  }
+}
